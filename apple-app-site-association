@@ -3,7 +3,7 @@
 		"apps": [],
 		"details": [
 			{
-				"appID": "N56NHP69V7.com.fitekmobile.qa",
+				"appID": "N56NHP69V7.com.fitekmobile.staging",
 				"paths": [ "*"]
 			}
 		]
